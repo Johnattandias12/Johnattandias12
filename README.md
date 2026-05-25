@@ -20,21 +20,27 @@ Ticket marketplace I built solo, end to end: frontend, backend, payments with Pa
 ### Filgueira Imob
 [filgueiraimob.vercel.app](https://filgueiraimob.vercel.app/)
 
-Real estate platform with property listings, search and lead capture. Built with Next.js and TypeScript.
+Real estate platform with property listings, search and lead capture. React, TypeScript and Vite.
 
 ### CintIA
 [painel-cintia.vercel.app](https://painel-cintia.vercel.app/)
 
-Analytics dashboard for public administration, powered by a WhatsApp AI agent. KPIs, citizen feedback and heatmaps.
+Analytics dashboard for public administration, powered by a WhatsApp AI agent. KPIs, citizen feedback and demand heatmaps.
 
 ### Michelangelo AI
 [meu-ia-arts.vercel.app](https://meu-ia-arts.vercel.app/)
 
-AI studio that generates brand identity, copy and brand pages.
+AI studio that generates brand identity, copy and brand pages. Next.js 15 and React 19.
 
-### Beyonder Office
+### Atrium
+[atrium-three.vercel.app](https://atrium-three.vercel.app/)
 
-Real-time visualization of a team of AI agents working together.
+Demand and task management interface. Lightweight, no framework, no backend.
+
+### Mamon
+[mamon-azure.vercel.app](https://mamon-azure.vercel.app/)
+
+Privacy first personal finance dashboard. Reads your bank CSV entirely in the browser, nothing is uploaded or stored.
 
 ## Contact
 
