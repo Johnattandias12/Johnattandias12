@@ -1,49 +1,50 @@
 <h1 align="center">Johnattan Dias</h1>
 
 <p align="center">
-  <b>CEO &amp; fundador da AXON</b><br/>
-  Especialista em Claude Code, IA aplicada e arquitetura de times de agentes<br/>
-  <sub>Natal · Rio Grande do Norte · Brasil</sub>
+  <b>Founder &amp; CEO of AXON</b><br/>
+  Software Engineer — Claude Code, applied AI &amp; multi-agent systems<br/>
+  <sub>Natal, Brazil · Open to remote opportunities worldwide</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.axoningressos.com.br/">axoningressos.com.br</a> ·
-  <a href="https://wa.me/5584981235396">WhatsApp</a> ·
-  <a href="mailto:johnattan.dias@gmail.com">E-mail</a>
+  <a href="https://www.axoningressos.com.br/">Website</a> ·
+  <a href="mailto:johnattan.dias@gmail.com">Email</a> ·
+  <a href="https://wa.me/5584981235396">WhatsApp</a>
 </p>
 
 ---
 
-### Sobre
+### About
 
-Construo produtos digitais de ponta a ponta — da arquitetura ao deploy em produção. Meu foco é **IA aplicada**: desenho e opero **times de agentes** que escrevem, revisam e mantêm software de verdade. Trabalho a fundo com **Claude Code** — agentes, CLI, skills, hooks e MCP — pra transformar fluxo manual em automação confiável.
+I build digital products end to end — from architecture to production deployment. My focus is **applied AI**: I design and operate **teams of AI agents** that write, review and maintain real software. I work deeply with **Claude Code** — agents, CLI, skills, hooks and MCP — turning manual workflows into reliable automation.
 
-### AXON — meu principal projeto
+### AXON — my flagship project
 
-**[AXON](https://www.axoningressos.com.br/)** é um marketplace de ingressos que **arquitetei e desenvolvi por completo**: frontend, backend, pagamentos, segurança e infraestrutura.
+**[AXON](https://www.axoningressos.com.br/)** is a ticket marketplace I **architected and built entirely on my own**: frontend, backend, payments, security and infrastructure.
 
-- **Stack:** Next.js 15 · TypeScript · Tailwind v4 · Supabase (Postgres + RLS) · Pagar.me
-- **Diferencial técnico:** um **time de agentes de IA especializados** que mantenho dentro do projeto — auditoria de RLS/segurança, arquitetura de backend, revisão de código e QA — orquestrados via Claude Code.
+- **Stack:** Next.js 15 · TypeScript · Tailwind v4 · Supabase (Postgres + RLS) · Pagar.me payments
+- **Technical edge:** a **team of specialized AI agents** I maintain inside the project — RLS/security auditing, backend architecture, code review and QA — orchestrated through Claude Code.
 
-### Especialidade: IA &amp; agentes
+### What I do best: AI &amp; agents
 
-- Arquitetura de **times de subagents** especializados (segurança, backend, review, QA)
-- **Claude Code** avançado: skills, CLI, hooks, MCP servers e automação de workflow
-- Engenharia de prompts e pipelines de LLM rodando em produção
+- Architecting **specialized subagent teams** (security, backend, review, QA)
+- Advanced **Claude Code**: skills, CLI, hooks, MCP servers and workflow automation
+- Prompt engineering and production-grade LLM pipelines
 
-### Stack
+### Tech stack
 
 `Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Node.js` · `Claude / LLMs`
 
-### Outros projetos
+### Selected work
 
-| Projeto | O que é | Live |
+| Project | What it is | Live |
 |---|---|---|
-| **Michelangelo IA** | Estúdio gerador de identidade visual, copy e brand pages com IA | [meu-ia-arts.vercel.app](https://meu-ia-arts.vercel.app) |
-| **Beyonder Office** | Visualização em tempo real de um time de agentes de IA em ação | — |
+| **AXON** | Full-stack ticket marketplace with an in-house AI agent team | [axoningressos.com.br](https://www.axoningressos.com.br/) |
+| **Michelangelo AI** | AI studio that generates brand identity, copy and brand pages | [meu-ia-arts.vercel.app](https://meu-ia-arts.vercel.app) |
+| **Beyonder Office** | Real-time visualization of a team of AI agents at work | — |
 
-### Contato
+### Get in touch
 
-- **Site:** [axoningressos.com.br](https://www.axoningressos.com.br/)
+- **Website:** [axoningressos.com.br](https://www.axoningressos.com.br/)
+- **Email:** johnattan.dias@gmail.com
 - **WhatsApp:** [+55 84 98123-5396](https://wa.me/5584981235396)
-- **E-mail:** johnattan.dias@gmail.com
