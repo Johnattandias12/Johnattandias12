@@ -2,48 +2,36 @@
 
 Full-stack software engineer working with public data and applied AI, from the database to the deploy. Founder of AXON.
 
-Most of my work sits between product engineering and AI: shipping real apps with Next.js and Supabase, and wiring up teams of Claude Code agents that handle security review, backend work and QA inside my own projects.
+I take information scattered across government portals, spreadsheets and PDFs and turn it into systems that run on their own and can be audited. Most of my recent work is in Next.js, TypeScript, Supabase and Python, with LLM agents built into the development process for security review, backend work and QA.
 
 Based in Natal, Brazil. Open to full-stack, data and applied AI roles, remote or hybrid in Natal, and to freelance projects.
 
+## Selected work
+
+**[AXON](https://www.axoningressos.com.br/)**
+Event ticketing marketplace built end to end on my own: frontend, backend, Pix payments, row-level security and infrastructure. Next.js, TypeScript and Supabase.
+
+**[CintIA Dashboard](https://github.com/Johnattandias12/painel-cintia)**
+Analytics for city halls that turns citizen conversations with a WhatsApp AI agent into service indicators: autonomous resolution, response time, satisfaction and demand by neighborhood.
+
+**[Filgueira Media Editor](https://github.com/Johnattandias12/filgueiraimob)**
+Installable web app that enhances real estate photos and videos and applies the brokerage's watermark in batch, entirely on the device. React, TypeScript, Canvas API and FFmpeg compiled to WebAssembly.
+
+**[Atrium](https://github.com/Johnattandias12/atrium)**
+Kanban for a real estate team's requests, with roles, real-time updates and a mobile layout. Vanilla JavaScript on top of Supabase.
+
+**[Mamon](https://github.com/Johnattandias12/mamon)**
+Privacy-first personal finance dashboard: bank statements are parsed and charted in the browser, nothing is uploaded.
+
 ## Stack
 
-Next.js, TypeScript, React, Tailwind, Supabase, PostgreSQL, Node.js, and Claude / LLM tooling (agents, CLI, skills, MCP).
+TypeScript, JavaScript, Python, React, Next.js, Node.js, Supabase (PostgreSQL, Auth, row-level security), Tailwind CSS, Vercel, Vitest, Playwright, LLM APIs (Claude, Gemini) and agent tooling.
 
-## Projects
+## Background
 
-### AXON
-[axoningressos.com.br](https://www.axoningressos.com.br/)
-
-Ticket marketplace I built solo, end to end: frontend, backend, payments with Pagar.me, RLS security and infrastructure. It runs with an in-house team of Claude Code agents I orchestrate for security auditing, backend architecture and code review.
-
-### Filgueira Imob
-[filgueiraimob.vercel.app](https://filgueiraimob.vercel.app/)
-
-Real estate platform with property listings, search and lead capture. React, TypeScript and Vite.
-
-### CintIA
-[painel-cintia.vercel.app](https://painel-cintia.vercel.app/)
-
-Analytics dashboard for public administration, powered by a WhatsApp AI agent. KPIs, citizen feedback and demand heatmaps.
-
-### Michelangelo AI
-[meu-ia-arts.vercel.app](https://meu-ia-arts.vercel.app/)
-
-AI studio that generates brand identity, copy and brand pages. Next.js 15 and React 19.
-
-### Atrium
-[atrium-three.vercel.app](https://atrium-three.vercel.app/)
-
-Demand and task management interface. Lightweight, no framework, no backend.
-
-### Mamon
-[mamon-azure.vercel.app](https://mamon-azure.vercel.app/)
-
-Privacy first personal finance dashboard. Reads your bank CSV entirely in the browser, nothing is uploaded or stored.
+Studied Informatics in the technical program at IFRN (2015 to 2018). Law degree at UFRN (in progress), with a published article on civil liability for outages and account blocks on digital platforms. Previously co-founder of Cactus Analytica, building chatbots and BI for public administration.
 
 ## Contact
 
 LinkedIn: [linkedin.com/in/johnattandias](https://www.linkedin.com/in/johnattandias)  
-Website: [axoningressos.com.br](https://www.axoningressos.com.br/)  
 Email: johnattan.dias@gmail.com
