@@ -1,10 +1,10 @@
 # Johnattan Dias
 
-Founder and CEO at AXON. I build full-stack products with a strong focus on applied AI and agent systems.
+Full-stack software engineer working with public data and applied AI, from the database to the deploy. Founder of AXON.
 
 Most of my work sits between product engineering and AI: shipping real apps with Next.js and Supabase, and wiring up teams of Claude Code agents that handle security review, backend work and QA inside my own projects.
 
-Based in Natal, Brazil.
+Based in Natal, Brazil. Open to full-stack, data and applied AI roles, remote or hybrid in Natal, and to freelance projects.
 
 ## Stack
 
@@ -16,11 +16,6 @@ Next.js, TypeScript, React, Tailwind, Supabase, PostgreSQL, Node.js, and Claude 
 [axoningressos.com.br](https://www.axoningressos.com.br/)
 
 Ticket marketplace I built solo, end to end: frontend, backend, payments with Pagar.me, RLS security and infrastructure. It runs with an in-house team of Claude Code agents I orchestrate for security auditing, backend architecture and code review.
-
-### Hermes
-[hermes-rn.vercel.app](https://hermes-rn.vercel.app/)
-
-Intelligence platform for external control of public spending in Rio Grande do Norte. It tracks every municipality's cases at the State Audit Court (TCE-RN) and monitors the fiscal health of all 167 municipalities month by month, sending preventive alerts to public managers. Designed, built and maintained by me; private repository.
 
 ### Filgueira Imob
 [filgueiraimob.vercel.app](https://filgueiraimob.vercel.app/)
@@ -49,5 +44,6 @@ Privacy first personal finance dashboard. Reads your bank CSV entirely in the br
 
 ## Contact
 
-Website: [axoningressos.com.br](https://www.axoningressos.com.br/)
+LinkedIn: [linkedin.com/in/johnattandias](https://www.linkedin.com/in/johnattandias)  
+Website: [axoningressos.com.br](https://www.axoningressos.com.br/)  
 Email: johnattan.dias@gmail.com
