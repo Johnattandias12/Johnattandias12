@@ -17,6 +17,11 @@ Next.js, TypeScript, React, Tailwind, Supabase, PostgreSQL, Node.js, and Claude 
 
 Ticket marketplace I built solo, end to end: frontend, backend, payments with Pagar.me, RLS security and infrastructure. It runs with an in-house team of Claude Code agents I orchestrate for security auditing, backend architecture and code review.
 
+### Hermes
+[hermes-rn.vercel.app](https://hermes-rn.vercel.app/)
+
+Intelligence platform for external control of public spending in Rio Grande do Norte. It tracks every municipality's cases at the State Audit Court (TCE-RN) and monitors the fiscal health of all 167 municipalities month by month, sending preventive alerts to public managers. Designed, built and maintained by me; private repository.
+
 ### Filgueira Imob
 [filgueiraimob.vercel.app](https://filgueiraimob.vercel.app/)
 
